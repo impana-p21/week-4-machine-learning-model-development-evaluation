@@ -116,6 +116,7 @@ The Area Under the Curve (AUC) provides a summary measure of classification perf
 
 ## Project Files
 
+```text
 week-4-machine-learning-model-development-evaluation/
 │
 ├── data/
